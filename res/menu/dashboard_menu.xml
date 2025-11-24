@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_account"
+        android:title="Account" />
+    <item
+        android:id="@+id/menu_live_tracking"
+        android:title="Live Tracking" />
+    <item
+        android:id="@+id/menu_connect_obd"
+        android:title="Connect to OBD" />
+</menu>
