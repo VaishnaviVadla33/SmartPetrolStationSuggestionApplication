@@ -1,4 +1,4 @@
-# RefuelCue: Secure Automotive Fuel Assistance System
+# RefuelCue: Secure Smart PetrolStation Suggestor
 
 Real-time OBD-II vehicle data collection with secure RSA-based device authentication and petrol station discovery via Google Maps integration.
 
